@@ -1,0 +1,57 @@
+-----------------------------------------------------------------------------
+Colton Crater?              N35 34.466 W111 36.766 (12S 444477 3936922) alt:0
+
+-----------------------------------------------------------------------------
+Target Zone 1 - contact between vc2 and vf2            N35 35.252 W111 38.033 (12S 442573 3938386) alt:0
+vc2 and vf2 could be part of the same unit.  Looking at the contact could help determine which came first.  But the current mapping implies they are related temporally, so the goal of this gigapan series is to show that temporal relationship.
+
+Also, we want to look on vc2 for any features which are diagnostic of cones
+
+Features to look for and attempt to document:
+scoria - 
+
+Basalt flow sometimes have vessicle, air bubbles, which are caused by gas releases from the rock.  Scoria are shot through with these holes - almost like pumice, extremely light.  We could attempt to document this feature by seeing fields of rocks with tiny holes - like looking at a bathroom sponge.  We would need a very close up view for this.
+
+Some of these types of volcanos have radial dyke features from the center.  We could document these by imaging the whole cone of vc2.
+
+Gigapans for here:
+-vc2 cone from base.
+-contact zones
+-extreme close up of suspected scoria or other rocks
+-anything different about the cone which we don't see in the flow.
+-climb to the edge of the cone and image down into the cone, and of the
+whole site.
+-lots of age relationships.
+
+If we look at vc2 it is surrounded by different contacts.  To the north slightly west it contacts vf2, and we also have contact with an old flow, vf1 to the East, and there is a contact between vf1 and vf2 so we see the relationship between and old flow and a younger cone and younger flow all together.
+
+And another old cone to the west.  
+
+Hopefully we can see these contacts readily.
+-----------------------------------------------------------------------------
+Target Zone 2 - Dimple like features on vc1            N35 36.119 W111 36.593 (12S 444757 3939975) alt:0
+This is an older cone unit.  We are curious about the 'dimple' like structures.
+
+Proposed Gigapans:
+-from near the road due North, then walk toward this Target and capture the dimples and any other interesting features.
+
+Brian thinks the dimples may be erosional slumping zones.  We will image them and find out.
+-----------------------------------------------------------------------------
+Target Zone 3 - Possible Fluvial Zone            N35 36.482 W111 36.114 (12S 445485 3940642) alt:0
+We should be able to see this from the road, possibly walk into it, or from the road.
+
+Goal:
+-Capture an image from which we can determine if this is a fluvial zone.
+-----------------------------------------------------------------------------
+Target Zone 4 - What are these big black things?            N35 34.356 W111 37.175 (12S 443859 3936722) alt:0
+Are they big bombs?
+-----------------------------------------------------------------------------
+Target Zone 5               N35 34.194 W111 36.536 (12S 444822 3936417) alt:0
+Lots of contact relationships here
+-----------------------------------------------------------------------------
+Target Zone 6               N35 34.059 W111 36.477 (12S 444909 3936166) alt:0
+More contact relationships.
+-----------------------------------------------------------------------------
+Target Zone 7 - Rim of Colton (I think)            N35 34.393 W111 36.803 (12S 444421 3936787) alt:0
+
+-----------------------------------------------------------------------------

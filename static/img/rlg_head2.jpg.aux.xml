@@ -1,0 +1,59 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="COMPRESSION">JPEG</MDI>
+  </Metadata>
+  <Metadata>
+    <MDI key="EXIF_Make">Canon</MDI>
+    <MDI key="EXIF_Model">Canon EOS 50D</MDI>
+    <MDI key="EXIF_Orientation">1</MDI>
+    <MDI key="EXIF_XResolution">(350)</MDI>
+    <MDI key="EXIF_YResolution">(350)</MDI>
+    <MDI key="EXIF_ResolutionUnit">2</MDI>
+    <MDI key="EXIF_Software">GIMP 2.6.11</MDI>
+    <MDI key="EXIF_DateTime">2011:08:29 10:00:18</MDI>
+    <MDI key="EXIF_ExposureTime">(0.008)</MDI>
+    <MDI key="EXIF_FNumber">(20)</MDI>
+    <MDI key="EXIF_ExposureProgram">1</MDI>
+    <MDI key="EXIF_ISOSpeedRatings">100</MDI>
+    <MDI key="EXIF_ExifVersion">0221</MDI>
+    <MDI key="EXIF_DateTimeOriginal">2011:07:26 21:44:12</MDI>
+    <MDI key="EXIF_DateTimeDigitized">2011:07:26 21:44:12</MDI>
+    <MDI key="EXIF_ShutterSpeedValue">(6.96578)</MDI>
+    <MDI key="EXIF_ApertureValue">(8.64386)</MDI>
+    <MDI key="EXIF_ExposureBiasValue">(0)</MDI>
+    <MDI key="EXIF_MaxApertureValue">(5)</MDI>
+    <MDI key="EXIF_SubjectDistance">(1.65)</MDI>
+    <MDI key="EXIF_MeteringMode">5</MDI>
+    <MDI key="EXIF_Flash">16</MDI>
+    <MDI key="EXIF_FocalLength">(68)</MDI>
+    <MDI key="EXIF_SubSecTime">86</MDI>
+    <MDI key="EXIF_SubSecTime_Original">86</MDI>
+    <MDI key="EXIF_SubSecTime_Digitized">86</MDI>
+    <MDI key="EXIF_ColorSpace">65535</MDI>
+    <MDI key="EXIF_PixelXDimension">1333</MDI>
+    <MDI key="EXIF_PixelYDimension">2000</MDI>
+    <MDI key="EXIF_FocalPlaneXResolution">(5315.44)</MDI>
+    <MDI key="EXIF_FocalPlaneYResolution">(5306.53)</MDI>
+    <MDI key="EXIF_FocalPlaneResolutionUnit">2</MDI>
+    <MDI key="EXIF_CustomRendered">0</MDI>
+    <MDI key="EXIF_ExposureMode">1</MDI>
+    <MDI key="EXIF_WhiteBalance">0</MDI>
+    <MDI key="EXIF_SceneCaptureType">0</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

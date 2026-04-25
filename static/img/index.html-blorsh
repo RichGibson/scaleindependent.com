@@ -1,0 +1,240 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta name="Title" content="SCALEINDEPENDENT">
+		<meta name="Author" content="Rich Gibson">
+		<meta name="Publisher" content="Rich Gibson">
+		<meta name="Copyright" content="Rich Gibson">
+		<meta name="Revisit" content="After 1 days">
+		<meta name="Keywords" content="gigapan, scaleindependent, imaging, high resolution, portraits, microscopy, rich gibson, portography, portfolio">
+		<meta name="Description" content="I take high resolution images, right about imaging technology, create new ways of seeing. This is my Portfolio.">
+		<meta name="Abstract" content=""
+		<meta name="page-topic" content="Portfolio">
+		<meta name="audience" content="All">
+		<meta name="Robots" content="INDEX,FOLLOW">
+		<meta name="Language" content="English">
+
+		<meta name="date" content="2011-10-16T15:17:00-08:00">
+		<!-- META-TAGS END -->
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Scale Independent</title>
+		<link rel="shortcut icon" href="favicon.ico">
+		
+		<link rel="stylesheet" href="stylez.css" />
+		
+				<script language="Javascript">
+	function toggleDiv(id,flagit) {
+		if (flagit=="1"){
+			if (document.layers) document.layers[''+id+''].visibility = "show"
+			else if (document.all) document.all[''+id+''].style.visibility = "visible"
+			else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "visible"
+		}
+		else if (flagit=="0"){
+			if (document.layers) document.layers[''+id+''].visibility = "hide"
+			else if (document.all) document.all[''+id+''].style.visibility = "hidden"
+			else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "hidden"
+		}
+	}
+</script>
+
+	</head>
+	
+<!-- HEAD END - BODY START -->
+	
+<body style="background-image:url(img/iso_12233-reschart.jpg); background-size: 100%; background-origin: content">
+
+Scale Independent Imaging<br>
+
+<!-- img src='img/iso_12233-reschart.jpg' -->
+GigaPan images, notes, etc<br>
+Rich.Gibson@gmail.com
+<div id="mytext">
+<h2>Presentations</h2>
+<li><a href="http://gigapan.org/gigapans/most_recent/1/?q=pda2011">Gigapans from the Personal Digital Archiving Conference</a>
+<li><a href="presentations/personal_digital_archiving_2011_rlg.zip">Personal Digital Archiving Talk 2011</a> (Apple Keynote format)
+<li><a href="presentations/personal_digital_archiving_2011.html">Personal Digital Archiving Talk 2011</a> (HTML for the web)
+</div>
+</body>
+</html>
+
+------------------------------------------------------------------------
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta name="Title" content="SCALEINDEPENDENT">
+		<meta name="Author" content="Rich Gibson">
+		<meta name="Publisher" content="Rich Gibson">
+		<meta name="Copyright" content="Rich Gibson">
+		<meta name="Revisit" content="After 1 days">
+		<meta name="Keywords" content="gigapan, scaleindependent, imaging, high resolution, portraits, microscopy, rich gibson, portography, portfolio">
+		<meta name="Description" content="I take high resolution images, right about imaging technology, create new ways of seeing. This is my Portfolio.">
+		<meta name="Abstract" content=""
+		<meta name="page-topic" content="Portfolio">
+		<meta name="audience" content="All">
+		<meta name="Robots" content="INDEX,FOLLOW">
+		<meta name="Language" content="English">
+
+		<meta name="date" content="2011-10-16T15:17:00-08:00">
+		<!-- META-TAGS END -->
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Scale Independent</title>
+		<link rel="shortcut icon" href="favicon.ico">
+		
+		<link rel="stylesheet" href="stylez.css" />
+		
+				<script language="Javascript">
+	function toggleDiv(id,flagit) {
+		if (flagit=="1"){
+			if (document.layers) document.layers[''+id+''].visibility = "show"
+			else if (document.all) document.all[''+id+''].style.visibility = "visible"
+			else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "visible"
+		}
+		else if (flagit=="0"){
+			if (document.layers) document.layers[''+id+''].visibility = "hide"
+			else if (document.all) document.all[''+id+''].style.visibility = "hidden"
+			else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "hidden"
+		}
+	}
+</script>
+
+	</head>
+	
+<!-- HEAD END - BODY START -->
+	
+<body {background-image:url('img/iso_12233-reschart.jpg';} >
+	<div id="container">
+		<div id="header">
+			<a href="./index.php?page=home"><img src="graphics/logo.png" alt="Steinhousery" id="logo"/></a>	
+			<div id="downloads">
+			<a href="downloads/CV_Steinhauser_Julius.pdf" class="more" target="_blank">CV <span class="zusatz">(PDF)</span></a><br/>
+			<a href="downloads/Screencaps_Steinhauser_Julius.pdf" class="more" target="_blank">SCREENCAPS <span class="zusatz">(PDF)</span></a>
+		</div>
+		<div id="contact">
+			<div class="contacts" id="telefon">+49&thinsp;1525&thinsp;577&thinsp;58&thinsp;89</div>
+			<div class="contacts" id="mail"><a href="mailto:julius@steinhousery.at">julius@steinhousery.at</a></div>
+			
+			<a href="http://www.vimeo.com/steinhousery" class="sociallinks" target="_blank"><img src="graphics/icon_vimeo.png" alt="vimeo" /></a>
+			<a href="http://www.youtube.com/user/steinhousery" class="sociallinks" target="_blank"><img src="graphics/icon_youtube.png" alt="youtube" /></a>
+			<a href="http://twitter.com/#!/steinhousery" class="sociallinks" target="_blank"><img src="graphics/icon_twitter.png" alt="twitter" /></a>
+			<a href="http://www.facebook.com/people/@/100001741452807" class="sociallinks" id="lastsocial" target="_blank"><img src="graphics/icon_facebook.png" alt="facebook" /></a>
+			<div class="clear"></div>
+		</div>
+		<div id="navi">
+			<a href="./index.php?page=home"><div class="naviitem" id="naviactive">HOME</div></a>
+			<a href="./index.php?page=work"><div class="naviitem" >WORK</div></a>
+		</div>
+	</div>
+		<div id="content">
+			<!-- TWITTER-START -->
+<script language="Javascript">
+	function toggleDiv(id,flagit) {
+		if (flagit=="1"){
+			if (document.layers) document.layers[''+id+''].visibility = "show"
+			else if (document.all) document.all[''+id+''].style.visibility = "visible"
+			else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "visible"
+		}
+		else if (flagit=="0"){
+			if (document.layers) document.layers[''+id+''].visibility = "hide"
+			else if (document.all) document.all[''+id+''].style.visibility = "hidden"
+			else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "hidden"
+		}
+	}
+</script>
+		
+<script type="text/javascript" src="twitterjavascript/jquery-1.2.6.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+	
+	
+	$.getJSON('http://twitter.com/status/user_timeline/RichGibson.json?count=5&callback=?', function(data){
+		$.each(data, function(index, item){
+			$('#twitter').append('<div class="tweet"><p>' + item.text.linkify() + '</p><p><strong>' + relative_time(item.created_at) + '</strong></p></div>');
+		});
+	
+	});
+	
+	
+	
+	function relative_time(time_value) {
+	  var values = time_value.split(" ");
+	  time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
+	  var parsed_date = Date.parse(time_value);
+	  var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
+	  var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
+	  delta = delta + (relative_to.getTimezoneOffset() * 60);
+	  
+	  var r = '';
+	  if (delta < 60) {
+		r = 'a minute ago';
+	  } else if(delta < 120) {
+		r = 'couple of minutes ago';
+	  } else if(delta < (45*60)) {
+		r = (parseInt(delta / 60)).toString() + ' minutes ago';
+	  } else if(delta < (90*60)) {
+		r = 'an hour ago';
+	  } else if(delta < (24*60*60)) {
+		r = '' + (parseInt(delta / 3600)).toString() + ' hours ago';
+	  } else if(delta < (48*60*60)) {
+		r = '1 day ago';
+	  } else {
+		r = (parseInt(delta / 86400)).toString() + ' days ago';
+	  }
+	  
+	  return r;
+	}
+	
+	String.prototype.linkify = function() {
+		return this.replace(/[A-Za-z]+:\/\/[A-Za-z0-9-_]+\.[A-Za-z0-9-_:%&\?\/.=]+/, function(m) {
+			return m.link(m);
+		});
+	};
+
+});
+</script>
+<!-- TWITTER-END -->
+
+
+
+
+<div id="showroom">
+
+			<iframe width="400" height="225" frameborder="0" class="video" id="lastvid">iframe</iframe>
+			<br/><br/>
+			<a href="./index.php?page=work" class="more" target="_self">see more works &#8230;</a>
+			<br/><br/><br/><br/><br/>
+		</div>
+		<div id="text">
+			<h2>ABOUT</h2>
+				<p>
+I am Rich Gibson. My goal is to make the world better by changing the way you see. 
+<p>
+srsly.
+<p>I have worked on 
+ the Gigapan and Explorable Microscopy Projects for Carnegie Melon University and NASA's Intelligent Robotics Group. I create high resolution portraits of people and I'm developing new ways to archive physical spaces with explorable images.
+<p>
+I am a a bricoleur, hacker, artist, programmer, author, and builder.
+<p>
+I helped create the Neogeography movement, coauthoring Mapping Hacks and Google Maps Hacks. The process of working with and exploring how we interact and explore space lead me to the more generalized world of providing both context, and detail with explorable images.
+<p>
+For the past four years I have been obsessed with creating new ways to capture and use high resolution images of everything, including the Chaos Communications Camp in 2007, Volcanos in Arizona for NASA, the incredibly tidy offices of Monochrom in Vienna, details of cell metosis in mouse testis with sub-micron resolution, and portraits of people with the details of landscapes.
+</p>
+			<h2>caption</h2>
+				<p>
+				</p>
+				<p>
+				</p>
+				<p>
+				</p>
+			<h2>caption</h2>
+			<div id="twitter"></div>
+		</div>
+		<img src="img/rlg_headshot_bwsmall.jpg" alt="Rich Gibson, photograph  by Ward Cunningham" id="profilbild"/>		</div>
+	</div>
+</body>
+</html>
+
