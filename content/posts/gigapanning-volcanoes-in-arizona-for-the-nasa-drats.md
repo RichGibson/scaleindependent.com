@@ -85,8 +85,8 @@ And a closer view. For scale, it is about 0.25 km from the road, to the base of 
 
 <img src="http://scaleindependent.com/projects/drats/img/drats_sp_closeup.jpg" alt="x" width="1024" height="852" />
 
-Straight out we were able to capture a GigaPan on the edge of the contact between cone and flow. Note surface pattern of cracking on the rocks. Also there is Scoria, a highly vesicular volcanic rock (vesicular means there are many cavities, or vesicules). This is from the Northern flank of SP Crater, near to where an apparent alluvial layer flaking off of the cone contacts a major flow.<a href="http://gigapan.com/gigapans/116633"><img src="http://scaleindependent.com/projects/drats/img/g1.jpg" alt="x" width="800" height="415" />
-(click to view 1.3 gigapixel version on Gigapan.org)</a> After capturing that image we worked our way about 65 meters up the cone. Standing on the base of the northern part of the SP crater, facing northward looking at the basaltic flow off of the crater. <a href="http://gigapan.com/gigapans/116651"><img src="http://scaleindependent.com/projects/drats/img/g2.jpg" alt="x" width="1024" height="274" />
+Straight out we were able to capture a GigaPan on the edge of the contact between cone and flow. Note surface pattern of cracking on the rocks. Also there is Scoria, a highly vesicular volcanic rock (vesicular means there are many cavities, or vesicules). This is from the Northern flank of SP Crater, near to where an apparent alluvial layer flaking off of the cone contacts a major flow.<a href="https://megazoomquilt.com/gigapans/116633"><img src="http://scaleindependent.com/projects/drats/img/g1.jpg" alt="x" width="800" height="415" />
+(click to view 1.3 gigapixel version on Gigapan.org)</a> After capturing that image we worked our way about 65 meters up the cone. Standing on the base of the northern part of the SP crater, facing northward looking at the basaltic flow off of the crater. <a href="https://megazoomquilt.com/gigapans/116651"><img src="http://scaleindependent.com/projects/drats/img/g2.jpg" alt="x" width="1024" height="274" />
 (click to view 1.27 gigapixel version on Gigapan.org)</a>
 
 The goal of this image is to show the continuity between the flow and the crater. And the wind is so hard that I had to hold the tripod with one hand, and while I was recording notes my netbook was literally blown out of my lap and thrown six feet. The wind is from the west, left in the image.
@@ -107,7 +107,7 @@ Two things to show:
 
 2. A good aerial of the extent of the flow unit. you may be able to trace the boundary of the flow unit as well as we know based on what is uncovered.
 
-This is 10 meters down slope from G2. Showing details of the talus slope on SP.<a href="http://gigapan.com/gigapans/116700"><img src="http://scaleindependent.com/projects/drats/img/g3.jpg" alt="x" width="800" height="527" />
+This is 10 meters down slope from G2. Showing details of the talus slope on SP.<a href="https://megazoomquilt.com/gigapans/116700"><img src="http://scaleindependent.com/projects/drats/img/g3.jpg" alt="x" width="800" height="527" />
 (click to view 0.69 gigapixel version on Gigapan.org)</a>
 
 Showing various sized rocks and variability in vessicularty of rocks. Basically some rocks have a lot of holes, like scoria, and others don't. Also showing one piece that looks like an outer part of the flow , and some pieces showing evidence of welding, with scoria landing on partially cooled flow and bonding to that flow. Twenty five meters due North, into the flow area, we captured this image.</li>

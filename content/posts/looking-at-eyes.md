@@ -24,7 +24,7 @@ Here is a closeup of the eye of the young man.
 And an even closer view: You can see the mullioned windows in his eyes. Dürer was looking that closely at every detail.
 <a href="/images/2015/01/IMG_3197-2.jpg"><img class="alignleft size-medium wp-image-15591" src="/images/2015/01/IMG_3197-2-300x200.jpg" alt="IMG_3197-2" width="300" height="200" /></a>
 
-Here is a photograph, <a href="http://www.gigapan.com/gigapans/2ea23f87cf24bf1dd8775ed35610be4b">From this high resolution portrait</a> showing an eye...
+Here is a photograph, <a href="https://megazoomquilt.com/gigapans/2ea23f87cf24bf1dd8775ed35610be4b">From this high resolution portrait</a> showing an eye...
 
 <a href="/images/2015/01/jeremias_altman_eye1.png"><img class="alignleft size-medium wp-image-15593" src="/images/2015/01/jeremias_altman_eye1-300x198.png" alt="jeremias_altman_eye" width="300" height="198" /></a>
 

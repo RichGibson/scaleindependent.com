@@ -6,7 +6,7 @@ categories:
   - ScaleIndependent
 ---
 
-I make maps, and <a title="GigaPan and Multi Image Photography" href="http://scaleindependent.com/gigapan-and-multi-image-photography/">create multi-image high resolution images</a> at different scales. From sub micron resolution to <a href="/category/pictures/portraits/">300 megapixel portraits of people</a>, to <a href="http://gigapan.com/gigapans/54455" target="_blank">five gigapixel views of Burning Man</a>...and more.
+I make maps, and <a title="GigaPan and Multi Image Photography" href="http://scaleindependent.com/gigapan-and-multi-image-photography/">create multi-image high resolution images</a> at different scales. From sub micron resolution to <a href="/category/pictures/portraits/">300 megapixel portraits of people</a>, to <a href="https://megazoomquilt.com/gigapans/54455" target="_blank">five gigapixel views of Burning Man</a>...and more.
 
  
 

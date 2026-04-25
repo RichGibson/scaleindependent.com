@@ -1,5 +1,5 @@
 ---
-title: Personal Portraits of Australia
+title: "Personal Portraits of Australia (NSFW)"
 date: 2016-06-11T10:18:38-08:00
 draft: false
 categories:
@@ -76,7 +76,7 @@ perhaps, images reminiscent of rippling sand dunes, foothills, and mountains.
 <img src="/images/arse/gunther_eye_1.png" height="500" width="500">
 <br>
 Detail of Gunther Friesinger's eye from·
-<a href="http://gigapan.com/gigapans/89120">530 megapixel image available on
+<a href="https://megazoomquilt.com/gigapans/89120">530 megapixel image available on
 gigapan.org</a>.
 
 <p>

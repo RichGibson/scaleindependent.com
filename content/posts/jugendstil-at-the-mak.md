@@ -6,4 +6,4 @@ categories:
   - ScaleIndependent
 ---
 
-<a href="http://gigapan.com/gigapans/167356">lamp</a>[gallery ids="15535"]	
+<a href="https://megazoomquilt.com/gigapans/167356">lamp</a>[gallery ids="15535"]	
