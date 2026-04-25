@@ -24,7 +24,7 @@ The links are mostly broken, contact me if you want to see something here.
 <hr />
 
 Galleries</li>
-<li><a href="http://gigapan.com/gigapans?order=most_recent&amp;query=siggraph_studio_2012">SIGGRAPH 2012 High resolution portraits</a> Aug 2012, Los Angeles</li>
+<li><a href="https://megazoomquilt.com/gigapans?order=most_recent&amp;query=siggraph_studio_2012">SIGGRAPH 2012 High resolution portraits</a> Aug 2012, Los Angeles</li>
 <li><a href="http://scaleindependent.com/projects/consent_culture_2012-01-24">Consent Culture fundraiser</a> Jan 24, 2012, Center for Sex and Culture San Francisco</li>
 <li><a href="http://scaleindependent.com/projects/von_robotern">Von Robertern, gallery opening</a>Nov 2011 Vienna</li>
 <li><a href="http://scaleindependent.com/projects/digital_donnerstag_2011-11-17">Digital Donnerstag, Nov 17, 2011</a> Vienna</li>

@@ -13,7 +13,7 @@ tags:
  
 <ul>
 \t<li><a href="http://scaleindependent.com/projects/drats/small/index.html">local preview of all gigapans</a></li>
-\t<li><a href="http://gigapan.com/gigapans?order=most_recent&amp;tags=d-rats-2010+drats_rich">All Gigapans on Gigapan.org</a></li>
+\t<li><a href="https://megazoomquilt.com/gigapans?order=most_recent&amp;tags=d-rats-2010+drats_rich">All Gigapans on Gigapan.org</a></li>
 </ul>
 
 Each year NASA sends groups of teams to the Desert to test equipment and techniques which may be useful for extraterrestrial exploration. In April 2010 I got to go to the San Francisco Volcanic field to take Gigapan photos of potential exploration sites for that summer's DRATS tests. It was great fun! Here are some notes and images from that trip.

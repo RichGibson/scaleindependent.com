@@ -20,7 +20,7 @@ Each year NASA sends groups of teams to the Desert to test equipment and techniq
 <!--more-->
 <ul>
 <li><a href="http://scaleindependent.com/projects/drats/small/index.html">local preview of all gigapans</a></li>
-\t<li><a href="http://gigapan.com/gigapans?order=most_recent&amp;tags=d-rats-2010+drats_rich">All Gigapans on Gigapan.org</a></li>
+\t<li><a href="https://megazoomquilt.com/gigapans?order=most_recent&amp;tags=d-rats-2010+drats_rich">All Gigapans on Gigapan.org</a></li>
 </ul>
 I met with Brian Monteleone, a Geologist at Arizona State. We looked at the geologic One of the goals of the tests is to see what can be learned about a location using just the tools available to us for extra planetary exploration. Brian and I played this role, looking at the location (mostly) with fresh eyes.The night before Brian and I met in Flagstaff and looked at maps to create a plan of attack. I loaded our plan into two GPS units <a href="http://scaleindependent.com/projects/drats/img/map_original_plan.jpg"><img src="http://scaleindependent.com/projects/drats/img/map_original_plan.jpg" alt="Map of the original plan" width="1024" height="1024" />
 (click for larger view)</a> <a href="http://scaleindependent.com/projects/drats/DRATS%202010.kml">Download a KML file </a>including our plan, and the reality of what we really did.
