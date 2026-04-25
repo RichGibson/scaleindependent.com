@@ -1,0 +1,9 @@
+---
+title: "Calibration: Ruler, using bellows"
+date: 2015-02-16T00:38:44-08:00
+draft: false
+categories:
+  - ScaleIndependent
+---
+
+50 mm lens on the fully extended bellows.Lens set to f8.Single stack, 16 images in the stack.Approx 659 pixels per mm. Each pixel is about 0.7 nm.[caption id="attachment_15647" align="alignleft" width="300"]<a href="/images/2015/02/stacked_small.jpg"><img class="size-medium wp-image-15647" src="/images/2015/02/stacked_small-300x200.jpg" alt="Fully extended bellows with a 50 mm lens.  About 8mm field of view, and a " width="300" height="200" /></a> Fully extended bellows with a 50 mm lens. About 8mm field of view.[/caption]This implies that each pixel is about 7 microns.[caption id="attachment_15651" align="alignnone" width="300"]<a href="/images/2015/02/stacked_zoom.jpg"><img class="size-medium wp-image-15651" src="/images/2015/02/stacked_zoom-300x247.jpg" alt="Two mm with a set of fully extended bellows.  Aprox. 660 pixels per mm." width="300" height="247" /></a> Two mm with a set of fully extended bellows. Aprox. 660 pixels per mm.[/caption]Using the 'slide duplicator' I get similar magnification, but less working area. The bellows provide enough room to get some lights in.With the 10x microscope objective it may be that we are getting Here is an image of the USAF 1951 target, using a 10x microscope objective on the macro imaging rig. The main disadvantage is that the z-axis working distance is severely restricted.[caption id="attachment_15653" align="alignleft" width="300"]<a href="/images/2015/02/USAF_1951_10x_objective_zoom.jpg"><img src="/images/2015/02/USAF_1951_10x_objective_zoom-300x284.jpg" alt="Using the macro rig with the 10x microscope objective" width="300" height="284" class="size-medium wp-image-15653" /></a> Using the macro rig with the 10x microscope objective[/caption]If I understand this, correctly, this shows group 6 element 6 very clearly. which means resolving 114 line pairs per mm.	

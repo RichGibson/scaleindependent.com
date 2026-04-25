@@ -1,0 +1,95 @@
+---
+title: Aging Street Punk (a poem)
+date: 2015-01-08T16:48:24-08:00
+draft: false
+categories:
+  - ScaleIndependent
+tags:
+  - scaleindependent
+  - poem
+  - vienna
+---
+
+ 
+
+Aging street punk sits
+on the sidewalk
+on a grate,
+on his jacket
+or a dirty rag.
+
+Hard to tell.
+I've seen him before
+most days
+
+Familiar stranger,
+more stranger than familiar
+
+He's playing with a rat.
+He smiles at the rat.
+
+The rat walks up and down
+his arms
+
+The rat knows his part.
+The rat plays along.
+
+The rat is sleek
+and healthy
+and clean.
+
+Rats are fastidious that way.
+
+Seems like a pet rat
+not a street rat.
+
+Street punk and pet rat.
+I haven't seen the rat before.
+
+And a crunch!
+And the punk's face
+loses the smile.
+
+"Oh for fuck's sake.
+Why?"
+
+That is what I think
+is behind his expression.
+
+Laughter.
+A couple, the woman
+has stepped
+on a beer can.
+
+Half a can, ripped in half,
+with a few coins inside.
+
+The can, half a can,
+and maybe the rat
+were the punk's
+means of production.
+
+She looks back, a moments conversation
+and she knows
+
+And she returns and apologizes
+And talks with the punk.
+
+I try not to stare, and I go
+into the Spar
+and buy my beer.
+
+And when I come out
+the can is restored.
+
+Maybe it is a new half beer can.
+
+Empty beer cans are a renewable resource.
+
+I give him a Euro fifty.
+
+And look at his rat for a moment.
+
+He says thank you.
+
+Sunday Sept 28, 2014, by the MuseumsQuartier U2, Spar, at Getreidmarkt and Babenbergerstraße	

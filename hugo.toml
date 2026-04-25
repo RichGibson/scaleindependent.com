@@ -1,0 +1,76 @@
+baseURL = "https://scaleindependent.com/"
+languageCode = "en-us"
+title = "Scale Independent"
+theme = "PaperMod"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+    noClasses = false
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  env = "production"
+  author = "Rich Gibson"
+  description = "Making the world better by changing the way you see."
+
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  ShowToc = false
+  ShowRssButtonInSectionTermList = true
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Scale Independent"
+    Content = "Maps, gigapans, code, culture, and the occasional poem."
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/RichGibson"
+
+[[menus.main]]
+  identifier = "nav-posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menus.main]]
+  identifier = "nav-til"
+  name = "TIL"
+  url = "/til/"
+  weight = 20
+
+[[menus.main]]
+  identifier = "nav-photos"
+  name = "Photos"
+  url = "/photo_projects/"
+  weight = 30
+
+[[menus.main]]
+  identifier = "nav-maps"
+  name = "Maps"
+  url = "/categories/maps/"
+  weight = 40
+
+[[menus.main]]
+  identifier = "nav-about"
+  name = "About"
+  url = "/posts/about-rich/"
+  weight = 50
