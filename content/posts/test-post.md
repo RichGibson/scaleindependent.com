@@ -1,7 +1,7 @@
 ---
 title: test post
 date: 2014-12-30T11:54:58-08:00
-draft: false
+draft: true
 categories:
   - ScaleIndependent
 ---

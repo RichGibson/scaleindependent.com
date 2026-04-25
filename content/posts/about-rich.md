@@ -1,33 +1,24 @@
 ---
 title: About Rich
-date: 2015-01-02T15:07:05-08:00
+date: 2026-04-25
 draft: false
 categories:
   - ScaleIndependent
 ---
 
-<img class=" wp-image-73 size-full alignleft" src="/images/2014/12/rlg_head2.jpg" alt="rlg_head2" width="200" height="318" /><a href="mailto:rich.gibson@gmail.com">Rich.Gibson@gmail.com</a>
-PO Box 960
-Sebastopol, CA 9543
-707-529-6413
+<img src="/images/2014/12/rlg_head2.jpg" alt="Rich Gibson" width="200" style="float:left; margin: 0 1.5em 1em 0;">
 
-https://www.facebook.com/gigapanner
 I am Rich Gibson. My goal is to make the world better by changing the way you see.
 
-I create multi-image hi resolution images at different scales. From sub micron resolution to 300 megapixel portraits of people, and more.
+I create multi-image high resolution images at different scales — from sub-micron resolution to 300 megapixel portraits of people. I have gigapanned volcanoes in Arizona for NASA, the Chaos Communications Camp in 2007, the offices of Monochrom in Vienna, cell mitosis in mouse testis, and portraits of people with the texture of landscapes.
 
-I also write software (<a href="https://github.com/RichGibson">my GitHub account</a>), fabricate equipment, including a CNC controlled microscope, once wrote books (<a href="http://shop.oreilly.com/product/9780596007034.do">Mapping Hacks</a> and Google Maps Hacks), and passionately evangelize for the technologies and tools I love.
+I was described as "a wild mixture of seeing and bricoleur." I'll take it.
 
-I was described as a "wild mixture of seeing and bricoleur."
+I co-authored [Mapping Hacks](http://shop.oreilly.com/product/9780596007034.do) and Google Maps Hacks (O'Reilly), and helped shape the Neogeography movement. Working with geographic space led me to the more general question of how we use explorable images to provide both context and detail at any scale.
 
-srsly.
+I write software, build things, run a laser cutter, and think about how instrumentation changes behavior. I have worked on the Gigapan and Explorable Microscopy projects for Carnegie Mellon University and NASA Ames Research Center's Intelligent Robotics Group.
 
-I have worked on the Gigapan and Explorable Microscopy Projects for Carnegie Melon University and NASA Ames Research Center's Intelligent Robotics Group. I create high resolution portraits of people and I'm developing new ways to archive physical spaces with explorable images.
+This site is where I put the things that don't fit anywhere else: maps, gigapans, code notes, essays, poems, photo projects, and the occasional opinion.
 
-I am a photographer, artist, researcher, hacker, programmer, author, maker, and bricoleur.
-
-I helped create the Neogeography movement through coauthoring the books Mapping Hacks and Google Maps Hacks. The process of working with and exploring how we interact and explore geographic spaces lead me to the more generalized world of providing both context, and detail with high resolution explorable images.
-
-For the past four years I have been obsessed with creating new ways to capture and use high resolution images of everything, including the Chaos Communications Camp in 2007, Volcanos in Arizona for NASA, the incredibly tidy offices of Monochrom in Vienna, details of cell metosis in mouse testis with sub-micron resolution, and portraits of people with the details of landscapes.
-
-I am available for Gigapan and Portrait photography, events, archival work, and Django/Python programming. Please contact me <a href="mailto:rich.gibson@gmail.com">Rich.Gibson@gmail.com</a>.	
+**Contact:** <a href="mailto:rich.gibson@gmail.com">rich.gibson@gmail.com</a>
+**GitHub:** <a href="https://github.com/RichGibson">RichGibson</a>

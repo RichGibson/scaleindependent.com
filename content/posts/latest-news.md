@@ -1,7 +1,7 @@
 ---
 title: Latest News
 date: 2015-01-03T12:50:35-08:00
-draft: false
+draft: true
 categories:
   - ScaleIndependent
 ---

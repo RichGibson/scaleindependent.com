@@ -1,7 +1,7 @@
 ---
 title: wordpress notes
 date: 2015-01-05T06:02:37-08:00
-draft: false
+draft: true
 categories:
   - ScaleIndependent
 ---
